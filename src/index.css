@@ -47,6 +47,9 @@ body {
   left: -100px;
   z-index: -1;
 }
+.container{
+  padding:50px;
+}
 .start--page {
   min-height: 100vh;
   display: flex;
