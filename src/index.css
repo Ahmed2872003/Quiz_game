@@ -48,7 +48,7 @@ body {
   z-index: -1;
 }
 .container{
-  padding:50px;
+  padding: 50px 100px;
 }
 .start--page {
   min-height: 100vh;
